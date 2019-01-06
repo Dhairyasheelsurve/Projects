@@ -1,4 +1,4 @@
-# Final-Project-web_developers
+# Event Management System
 The purpose of the website application is to create a platform where events going around the area can be shared and social gatherings are improved.
 So basically the website manages to do the following things :
 
